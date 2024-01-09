@@ -1,4 +1,4 @@
 # New Project
-This project was locally created
+This project was created from local system.
 
 By bkleo.
